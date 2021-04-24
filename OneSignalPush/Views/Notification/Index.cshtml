@@ -1,0 +1,21 @@
+﻿@model OneSignalPush.Models.CreateNotificationModel
+
+<form asp-action="CreateNotification" asp-controller="Notification" method="post">
+
+    <div class="form-wrap">
+        <input asp-for="Title" class="form-input" />
+        <label class="form-label">Başlık</label>
+
+
+    </div>
+    <div class="form-wrap">
+        <input asp-for="Content" class="form-input" />
+        <label class="form-label">içerik</label>
+
+
+    </div>
+
+
+
+    <input class="btn btn-success" type="submit" value="Bildirim At" />
+</form>
