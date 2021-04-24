@@ -1,1 +1,1 @@
-.Net Core ile OneSignal üzerinden bildirim gönderme örnegidir. Uygulamayı çalıştırmadan önce baglantı ayarlarını kontrol ediniz.
+.Net Core ile OneSignal üzerinden bildirim gönderme örnegidir. Uygulamayı çalıştırmadan önce OneSignal baglantı keylerini kontrol ediniz.
