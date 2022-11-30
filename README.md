@@ -1,1 +1,1 @@
-.Net Core ile OneSignal üzerinden bildirim gönderme örnegidir. Uygulamayı çalıştırmadan önce OneSignal baglantı keylerini kontrol ediniz.
+An example of sending notifications via OneSignal with .Net Core. Check the OneSignal connection keys before running the application.
